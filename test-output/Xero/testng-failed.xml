@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Xero]" parallel="tests">
+  <test thread-count="2" name="chromeTest(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="co.xeroRunner.testCases.Test1">
+        <methods>
+          <include name="testCase1"/>
+        </methods>
+      </class> <!-- co.xeroRunner.testCases.Test1 -->
+    </classes>
+  </test> <!-- chromeTest(failed) -->
+</suite> <!-- Failed suite [Xero] -->

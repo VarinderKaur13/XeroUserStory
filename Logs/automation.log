@@ -1,0 +1,11 @@
+| TestBase| | setUp | | 32 | 01/08/2020 11:56:13  devpinoyLogger Browser chooosen is chrome
+| TestBase| | setUp | | 36 | 01/08/2020 11:56:18  devpinoyLogger chrome browser is launched...
+| TestBase| | setUp | | 47 | 01/08/2020 11:56:20  devpinoyLogger Opened url
+| TestBase| | setUp | | 49 | 01/08/2020 11:56:23  devpinoyLogger Browser window maximized...
+| TestBase| | setUp | | 51 | 01/08/2020 11:56:23  devpinoyLogger Implicit wait is set...
+| Homepage| | clickonlogin | | 16 | 01/08/2020 11:56:24  devpinoyLogger clicked on login button
+| Loginpage| | login | | 22 | 01/08/2020 11:56:24  devpinoyLogger Entered email id
+| Loginpage| | login | | 24 | 01/08/2020 11:56:26  devpinoyLogger Entered pwd
+| Loginpage| | login | | 26 | 01/08/2020 11:56:28  devpinoyLogger clicked on loginin
+| AddAccount| | AddAnzAccount | | 24 | 01/08/2020 11:56:32  devpinoyLogger Clicked on menu
+| AddAccount| | AddAnzAccount | | 26 | 01/08/2020 11:56:35  devpinoyLogger Clicked on Bank Accounts
