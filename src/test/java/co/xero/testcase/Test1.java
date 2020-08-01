@@ -22,7 +22,7 @@ public class Test1 extends TestBase {
 		homepage.clickonlogin();
 		loginpage.login("varinderkaor1313@gmail.com", "xero@7890");
 		addAccount.AddAnzAccount();
-		userdetails.Details("kaorvarinder","4242424242424242");
+		userdetails.Details("karvarinder","4242424242424242");
 		
 		tearDown();
 		
